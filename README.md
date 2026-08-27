@@ -166,8 +166,9 @@ WEBHOOK_URL = "YOUR_WEBHOOK_URL_HERE"
 Replace YOUR_WEBHOOK_URL_HERE with your actual webhook URL.
 
 ### 🚀 Step 5: Run the Script
-
+```bash
 python token_grabber.py
+```
 
 The script will:
 1. Scan your system for Discord tokens
@@ -292,18 +293,11 @@ Billing: Active subscription found
 
 Discord-Token-Grabber/
 ├── token_grabber.py      # Main script
-├── tokens.json           # Exported token data
 ├── README.md             # Documentation
 ├── LICENSE               # MIT License
 └── requirements.txt      # Dependencies
 
-### 📄 Generated Files
 
-| File | Description |
-|------|-------------|
-| tokens.json | All extracted token data in JSON format |
-
----
 
 ## 🔒 Security Recommendations
 
