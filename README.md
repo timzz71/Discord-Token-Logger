@@ -137,9 +137,10 @@ Or install both at once:
 pip install requests discord-webhook
 
 ### 📥 Step 2: Get the Code
-
+```bash
 git clone https://github.com/your-username/Discord-Token-Grabber.git
 cd Discord-Token-Grabber
+```bash
 
 Or download the ZIP file and extract it.
 
