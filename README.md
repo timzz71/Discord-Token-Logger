@@ -1,4 +1,4 @@
-# 🛡️ TOKEN GRABBER - PYTHON SCRIPT
+# 🛡️ TOKEN GRABBER | Tim$erz
 
 **A powerful, open-source tool for educational and security research purposes that demonstrates how Discord tokens are stored locally and how they can be extracted for security awareness.**
 
