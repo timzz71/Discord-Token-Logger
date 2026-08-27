@@ -1,4 +1,4 @@
-# 🎯 Discord Token Grabber
+# 🎯 Discord Token Grabber | Tim$erz
 
 **A comprehensive, open-source tool for educational and research purposes that demonstrates how Discord tokens can be extracted from local storage and analyzed for security awareness.**
 
